@@ -1,0 +1,3 @@
+[submodule "gupa-j2me-midlet"]
+	path = gupa-j2me-midlet
+	url = git@github.com:mtrcn/gupa-j2me-midlet.git
